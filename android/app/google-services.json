@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873388385979",
+    "project_id": "restuarant-app-e6df5",
+    "storage_bucket": "restuarant-app-e6df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873388385979:android:0cd2bf65945e1d063a6b9e",
+        "android_client_info": {
+          "package_name": "com.kaushalya.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873388385979-3haub1gng7dl1c4gvtstbpq8ddmm4ftd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC78me2Lkk82fbd_apFhaVy0jdohxL4k34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873388385979-3haub1gng7dl1c4gvtstbpq8ddmm4ftd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
